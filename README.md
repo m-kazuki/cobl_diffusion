@@ -27,7 +27,7 @@ python scripts/train.py
 Sample code for CoBL-Diffusion is in [`notebooks/cobl.ipynb`](notebooks/cobl.ipynb).
 
 ## Dataset and Pretrained File
-To use the notebooks above, please download the necessary files from [Google Drive](https://drive.google.com/drive/folders/1YYxMKDK8gWtZCOWNdiOHskAxEIpNUpvX?usp=sharing) and place them in the specified directories:
+To use the notebooks above, please download the necessary files from [Google Drive](https://drive.google.com/drive/folders/1ygbxlWYgYQnium41nZ3ZSnXHobscyeWT?usp=sharing) and place them in the specified directories:
 
 - `eval80_ego.pt` → `/dataset`
 - `eval80_obs.pt` → `/dataset`
